@@ -20,7 +20,6 @@
 #include <tf/transform_listener.h>
 #include <sensor_msgs/JointState.h>
 #include <gazebo_mecanum_plugins/gazebo_ros_mecanum_pid.h>
-#include <gazebo_mecanum_plugins/gazebo_mecanum_plugins_vel.h>
 #include <gazebo_mecanum_plugins/gazebo_mecanum_plugins_pid.h>
 
 namespace gazebo
